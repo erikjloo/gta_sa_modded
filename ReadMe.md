@@ -12,6 +12,7 @@
 
 # 4. Modloader: https://github.com/thelink2012/modloader/releases
 # 5. Essentials:
+--
 	00. Silent Patch: https://gtaforums.com/topic/669045-silentpatch/
 	01. Widescreen Fix: https://gtaforums.com/topic/547841-gtanfsmpother-widescreen-fixes-pack/
 	02. Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
