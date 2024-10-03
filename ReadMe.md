@@ -25,12 +25,12 @@ https://github.com/thelink2012/modloader/releases
 02. Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
 03. Open Limit Adjuster: https://gtaforums.com/topic/736512-open-limit-adjuster/
 04. Mix Sets: https://www.mixmods.com.br/2022/03/sa-mixsets/ \
-		⚠ Set StreamMemory = 2048\
-		Use the All disabled option in (settings) if you encounter bugs\
-		Set CarMatPipeDataPool   = 4 in MixSets.ini if you are missing car reflections
+	⚠ Set StreamMemory = 2048\
+	Use the All disabled option in (settings) if you encounter bugs\
+	Set CarMatPipeDataPool   = 4 in MixSets.ini if you are missing car reflections
 05. Improved Streaming: https://www.mixmods.com.br/2022/04/improved-streaming/ \
-		Use option 0a from (settings)
-		If you are having traffic issues, under [Range2] set Enabled = 0 in the .ini file
+	Use option 0a from (settings)
+	If you are having traffic issues, under [Range2] set Enabled = 0 in the .ini file
 06. NoDEP: https://www.mixmods.com.br/2015/03/nodep-desativar-dep/
 07. Run DLL32.exe Fix: https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/
 08. VehFuncs: https://www.mixmods.com.br/2022/02/sa-vehfuncs/
@@ -38,7 +38,7 @@ https://github.com/thelink2012/modloader/releases
 10. Effects Loader: https://github.com/DK22Pac/effects-loader/releases/tag/1.1
 11. EnhanceFX: https://www.mixmods.com.br/2018/12/enhancefx/
 12. SkyGfx Extended: https://www.mixmods.com.br/2022/07/sa-skygfx/ \
-		Use skygfx1.ini (the other file in the repo)
+	Use skygfx1.ini (the other file in the repo)
 
 ⚠ Start the game at least once, then go to modloader/modloader.ini and under ;MyMod=50 paste the following:
 
@@ -56,17 +56,18 @@ https://github.com/thelink2012/modloader/releases
 -----------
 20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
 21. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
-	22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
-23. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
-24. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
-25. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
-24. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
-25. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
-26. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
-27. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
-28. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
-29. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
-30. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
+22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
+24. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
+25. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
+26. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
+27. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
+28. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
+29. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
+30. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
+31. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
+32. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
+33. Automata Billboard: https://www.gtainside.com/en/sanandreas/mods/124796-nier-automata-billboard/
+34. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
 35. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
 36. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
 
