@@ -3,7 +3,7 @@
 2. CLEO:
 	CLEO: https://cleo.li/ \
 	CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/ \
-	NewOpcodes: https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/ \
+	NewOpcodes (included in SAAS): https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/ \
 	SAAS (Ambient Sounds): https://gtaforums.com/topic/825069-san-andreas-ambient-sounds-saas/
 
 3. Ped Spec: https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/
@@ -16,27 +16,23 @@
 	01. Widescreen Fix: https://gtaforums.com/topic/547841-gtanfsmpother-widescreen-fixes-pack/
 	02. Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
 	03. Open Limit Adjuster: https://gtaforums.com/topic/736512-open-limit-adjuster/
-	04. Mix Sets: https://www.mixmods.com.br/2022/03/sa-mixsets/
-		⚠ Set StreamMemory = 2048
-		Use the All disabled option in (settings) if you encounter bugs
+	04. Mix Sets: https://www.mixmods.com.br/2022/03/sa-mixsets/ \
+		⚠ Set StreamMemory = 2048\
+		Use the All disabled option in (settings) if you encounter bugs\
 		Set CarMatPipeDataPool   = 4 in MixSets.ini if you are missing car reflections
-
-	05. Improved Streaming: https://www.mixmods.com.br/2022/04/improved-streaming/
+	05. Improved Streaming: https://www.mixmods.com.br/2022/04/improved-streaming/ \
 		Use option 0a from (settings)
 		If you are having traffic issues, under [Range2] set Enabled = 0 in the .ini file
-
 	06. NoDEP: https://www.mixmods.com.br/2015/03/nodep-desativar-dep/
 	07. Run DLL32.exe Fix: https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/
 	08. VehFuncs: https://www.mixmods.com.br/2022/02/sa-vehfuncs/
 	09. PedFuncs: https://www.mixmods.com.br/2022/07/pedfuncs/
 	10. Effects Loader: https://github.com/DK22Pac/effects-loader/releases/tag/1.1
 	11. EnhanceFX: https://www.mixmods.com.br/2018/12/enhancefx/
-	12. SkyGfx Extended: https://www.mixmods.com.br/2022/07/sa-skygfx/
-		For HD vehicle reflections, in skygfx1.ini set:
-		envMapSize=2048
+	12. SkyGfx Extended: https://www.mixmods.com.br/2022/07/sa-skygfx/ \
+		For HD vehicle reflections, in skygfx1.ini set:\
+		envMapSize=2048\
 		envMapFarClipMult=10.0
-
-
 
 MOD LOADER
 	⚠ Start the game at least once, then go to modloader/modloader.ini and under ;MyMod=50 paste the following:
@@ -52,10 +48,11 @@ MOD LOADER
 	Environment
 	-----------
 	20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
-	20. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
-	21. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
-	22. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
-	23. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
+	21. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
+ 	22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
+	23. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
+	24. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
+	25. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
 	24. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
 	25. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
 	26. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
@@ -105,14 +102,8 @@ MOD LOADER
 	Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
 
 NOT INCLUDED (BUT COULD BE NICE):
-  First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/
-
-	RoSA Project Evolved: https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/
-	Improved and Fixed Original Vegetation: https://www.gtainside.com/en/sanandreas/mods/161558-improved-and-corrected-original-vegetation/
-	Original HQ Palms: https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/
+  	First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
+	RoSA Project Evolved: https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/ \
+	Improved and Fixed Original Vegetation: https://www.gtainside.com/en/sanandreas/mods/161558-improved-and-corrected-original-vegetation/ \
+	Original HQ Palms: https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/ \
 	Formal 2K Grass: https://www.gtainside.com/en/sanandreas/mods/96686-formal-2k-grass-textures/
-
-	Realistic Beach: https://www.mixmods.com.br/2020/03/praia-realista-v2-6/
-
-	Shoreline Waves: https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/
-	PS2 Timecyc: https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc/
