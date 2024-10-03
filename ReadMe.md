@@ -1,10 +1,10 @@
 0. Downgrader: https://gtaforums.com/topic/927016-san-andreas-downgrader/
 1. Large Address: https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
-2. CLEO:
+2. CLEO:\
 
-	CLEO: https://cleo.li/
-	CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/
-	NewOpcodes: https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/
+	CLEO: https://cleo.li/ \
+	CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/ \
+	NewOpcodes: https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/ \
 
 4. Modloader: https://github.com/thelink2012/modloader/releases
 5. Essentials:
