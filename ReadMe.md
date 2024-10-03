@@ -38,9 +38,7 @@ https://github.com/thelink2012/modloader/releases
 10. Effects Loader: https://github.com/DK22Pac/effects-loader/releases/tag/1.1
 11. EnhanceFX: https://www.mixmods.com.br/2018/12/enhancefx/
 12. SkyGfx Extended: https://www.mixmods.com.br/2022/07/sa-skygfx/ \
-		For HD vehicle reflections, in skygfx1.ini set:\
-		envMapSize=2048\
-		envMapFarClipMult=10.0
+		Use skygfx1.ini (the other file in the repo)
 
 ⚠ Start the game at least once, then go to modloader/modloader.ini and under ;MyMod=50 paste the following:
 
