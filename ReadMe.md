@@ -44,7 +44,7 @@ MOD LOADER
 	62 realistic materials = 62
 	60 proper fixes = 60
 
-6. Main Mods
+6. Main Mods \
 	Environment
 	-----------
 	20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
@@ -97,7 +97,7 @@ MOD LOADER
 	92. Mobile Font Fixed: https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
 	93. Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/
 
-7. Misc
+8. Misc
 	The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/
 	Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
 
