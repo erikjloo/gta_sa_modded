@@ -54,23 +54,23 @@ https://github.com/thelink2012/modloader/releases
 
 # 6. Main Mods
 
-##	Environment
-	-----------
-	20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
-	21. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
- 	22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
-	23. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
-	24. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
-	25. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
-	24. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
-	25. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
-	26. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
-	27. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
-	28. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
-	29. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
-	30. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
-	35. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
-	36. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
+## Environment
+-----------
+20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
+21. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
+	22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
+23. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
+24. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
+25. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
+24. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
+25. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
+26. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
+27. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
+28. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
+29. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
+30. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
+35. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
+36. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
 
 ## Vehicles & Weapons
 ------------------
@@ -111,8 +111,8 @@ The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/
 Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
 
 # NOT INCLUDED (BUT COULD BE NICE):
-  	First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
-	RoSA Project Evolved: https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/ \
-	Improved and Fixed Original Vegetation: https://www.gtainside.com/en/sanandreas/mods/161558-improved-and-corrected-original-vegetation/ \
-	Original HQ Palms: https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/ \
-	Formal 2K Grass: https://www.gtainside.com/en/sanandreas/mods/96686-formal-2k-grass-textures/
+First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
+RoSA Project Evolved: https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/ \
+Improved and Fixed Original Vegetation: https://www.gtainside.com/en/sanandreas/mods/161558-improved-and-corrected-original-vegetation/ \
+Original HQ Palms: https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/ \
+Formal 2K Grass: https://www.gtainside.com/en/sanandreas/mods/96686-formal-2k-grass-textures/
