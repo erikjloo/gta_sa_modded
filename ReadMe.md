@@ -1,17 +1,17 @@
-0. Downgrader: https://gtaforums.com/topic/927016-san-andreas-downgrader/
-1. Large Address: https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
-2. CLEO:
+# 0. Downgrader: https://gtaforums.com/topic/927016-san-andreas-downgrader/
+# 1. Large Address: https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
+# 2. CLEO:
 	CLEO: https://cleo.li/ \
 	CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/ \
 	NewOpcodes (included in SAAS): https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/ \
 	SAAS (Ambient Sounds): https://gtaforums.com/topic/825069-san-andreas-ambient-sounds-saas/
 
-3. Ped Spec: https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/
+# 3. Ped Spec: https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/
 	⚠ Install in root SA folder. Not compatible with Mod Loader
 	Use (no effect) from (settings)
 
-4. Modloader: https://github.com/thelink2012/modloader/releases
-5. Essentials:
+# 4. Modloader: https://github.com/thelink2012/modloader/releases
+# 5. Essentials:
 	00. Silent Patch: https://gtaforums.com/topic/669045-silentpatch/
 	01. Widescreen Fix: https://gtaforums.com/topic/547841-gtanfsmpother-widescreen-fixes-pack/
 	02. Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
