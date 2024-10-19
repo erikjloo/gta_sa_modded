@@ -1,4 +1,4 @@
-### A GTA San Andreas Modding Guide focused on improving visual (without impacting performance) and minor gameplay / QOL improvements:
+# A GTA San Andreas Modding Guide focused on improving visual (without impacting performance) and minor gameplay / QOL improvements:
 ---
 
 # 0. Downgrader
