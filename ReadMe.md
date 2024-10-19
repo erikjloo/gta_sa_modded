@@ -33,7 +33,7 @@ https://github.com/thelink2012/modloader/releases
 04. Mix Sets: https://www.mixmods.com.br/2022/03/sa-mixsets/ \
 	⚠ Set StreamMemory = 2048\
 	Use the All disabled option in (settings) if you encounter bugs\
-	Set CarMatPipeDataPool   = 4 in MixSets.ini if you are missing car reflections
+	Set CarMatPipeDataPool = 4 in MixSets.ini if you are missing car reflections
 05. Improved Streaming: https://www.mixmods.com.br/2022/04/improved-streaming/ \
 	Use option 0a from (settings)
 	If you are having traffic issues, under [Range2] set Enabled = 0 in the .ini file
@@ -46,7 +46,9 @@ https://github.com/thelink2012/modloader/releases
 12. SkyGfx Extended: https://www.mixmods.com.br/2022/07/sa-skygfx/ \
 	Use skygfx1.ini (the other file in the repo)
 
-⚠ Start the game at least once, then go to modloader/modloader.ini and under ;MyMod=50 paste the following:
+⚠ Start the game at least once\
+  Go to modloader/modloader.ini\
+  Under ;MyMod=50 paste the following:
 
 	72 cutscene characters = 72
 	71 mobile hands = 71
@@ -55,6 +57,8 @@ https://github.com/thelink2012/modloader/releases
 	63 proper vehicle retex = 63
 	62 realistic materials = 62
 	60 proper fixes = 60
+
+⚠ The folder names in the modloader need to match the config added to modloader.ini !!! ⚠
 
 ## 6. Main Mods
 
@@ -65,18 +69,21 @@ https://github.com/thelink2012/modloader/releases
 22. Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
 24. American Dream: https://gamemodding.com/en/gta-san-andreas/graphic/77612-behind-space-of-realities-american-dream-mod-loader.html
 25. Immerse Yourself: https://www.gtainside.com/en/sanandreas/mods/170166-project-immerse-yourself-v0-2/
-26. LS Night Windows: https://www.gtainside.com/en/sanandreas/mods/201414-ls-downtown-night-windows/
-27. 
-28. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
-29. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
-30. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
-31. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
-32. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
-33. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
-34. Automata Billboard: https://www.gtainside.com/en/sanandreas/mods/124796-nier-automata-billboard/
-35. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
-36. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
-37. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
+26. Relit San Andreas: https://gtaforums.com/topic/988819-relit-san-andreas/
+27. Missing Lampposts: https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/
+28. Illuminated Vinewood Sign: https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/
+29. Welcome Las Venturas Sign: https://www.gtainside.com/en/sanandreas/mods/119340-welcome-las-venturas-sign-remastered-final/
+30. Illuminated Jefferson Church: https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/
+31. Pacific Park Ferris Wheel: https://www.mixmods.com.br/2022/12/sa-pacific-park-rotating-ferris-wheel-roda-gigante-animada/
+32. Mural Akame: https://www.gtainside.com/en/sanandreas/mods/201188-mural-akame/
+33. Automata Billboard: https://www.gtainside.com/en/sanandreas/mods/124796-nier-automata-billboard/
+34. Smuff Nut: https://www.gtainside.com/en/sanandreas/mods-124/197513-smuff-nut/
+35. Big Ear Telescope: https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/
+36. UFO Bar Lit: https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/
+37. Lighthouse & Pyramid Fix: https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix-farol-e-piramide-com-luz/
+38. Weapon Models in Ammu-Nation: https://libertycity.net/files/gta-san-andreas/84135-3d-modeli-oruzhija-v-ammu-nation.html
+39. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
+40. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
 
 ### Vehicles & Weapons
 ------------------
