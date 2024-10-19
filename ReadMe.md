@@ -12,8 +12,8 @@ https://gtaforums.com/topic/927016-san-andreas-downgrader/
 https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
 
 ## 2. CLEO
-CLEO 5.0 (+Silent ASI Loader): https://cleo.li/\
-CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/\
+CLEO 5.0 (+Silent ASI Loader): https://cleo.li/ \
+CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/ \
 NewOpcodes: https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/
 
 ## 3. Ped Spec
