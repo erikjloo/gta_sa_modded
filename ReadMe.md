@@ -1,9 +1,9 @@
 # A GTA San Andreas Modding Guide focused on improving visuals (without impacting performance) and minor gameplay / QOL improvements:
 
 Heavily inspired by:\
-  INTER: https://www.youtube.com/watch?v=YyL92tlf5bo&t=368s&ab_channel=INTER\
-  Baigagee: https://www.youtube.com/watch?v=Ajzk0Z_M6ag&ab_channel=Baigagee\
-  Internet Rob: https://www.youtube.com/watch?v=B5relHf21lo&ab_channel=InternetRob\
+  INTER: https://www.youtube.com/watch?v=YyL92tlf5bo&t=368s&ab_channel=INTER \
+  Baigagee: https://www.youtube.com/watch?v=Ajzk0Z_M6ag&ab_channel=Baigagee \
+  Internet Rob: https://www.youtube.com/watch?v=B5relHf21lo&ab_channel=InternetRob 
 
 ## 0. Downgrader
 https://gtaforums.com/topic/927016-san-andreas-downgrader/
