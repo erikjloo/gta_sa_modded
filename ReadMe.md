@@ -87,7 +87,7 @@ https://github.com/thelink2012/modloader/releases
 
 ### Vehicles & Weapons
 ------------------
-60. Proper Fixes(for HD Texture Packs): https://www.mixmods.com.br/2022/03/sa-proper-fixes/
+60. Proper Fixes: https://www.mixmods.com.br/2022/03/sa-proper-fixes/
 		Do not install (optional - remove LOD vegetation)
 62. Realistic Materials: https://www.gtainside.com/en/sanandreas/mods/138088-imvehft-2-1-1-realistic-materials/
 63. Proper Vehicles Retex: https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
