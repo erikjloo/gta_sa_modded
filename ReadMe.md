@@ -1,4 +1,4 @@
-# A GTA San Andreas Modding Guide focused on improving visual (without impacting performance) and minor gameplay / QOL improvements:
+# A GTA San Andreas Modding Guide focused on improving visuals (without impacting performance) and minor gameplay / QOL improvements:
 
 Heavily inspired by:\
   INTER: https://www.youtube.com/watch?v=YyL92tlf5bo&t=368s&ab_channel=INTER\
