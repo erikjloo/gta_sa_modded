@@ -120,8 +120,8 @@ https://github.com/thelink2012/modloader/releases
 93. Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/
 
 ## 8. Misc
-First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/
-Ladders Mod: https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/
-Street Musicians: https://libertycity.net/files/gta-san-andreas/192301-ulichnye-muzykanty-v4-0.html
-The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/
+First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
+Ladders Mod: https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/ \
+Street Musicians: https://libertycity.net/files/gta-san-andreas/192301-ulichnye-muzykanty-v4-0.html \
+The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/ \
 Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
