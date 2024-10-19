@@ -1,28 +1,27 @@
 # A GTA San Andreas Modding Guide focused on improving visual (without impacting performance) and minor gameplay / QOL improvements:
 ---
 
-# 0. Downgrader
+## 0. Downgrader
 https://gtaforums.com/topic/927016-san-andreas-downgrader/
 
-# 1. Large Address
+## 1. Large Address
 https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
 
-# 2. CLEO
-CLEO: https://cleo.li/ \
+## 2. CLEO
+CLEO 5.0 (+Silent ASI Loader): https://cleo.li/ \
 CLEO+: https://www.mixmods.com.br/2022/08/cleoplus/ \
-NewOpcodes (included in SAAS): https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/ \
-SAAS (Ambient Sounds): https://gtaforums.com/topic/825069-san-andreas-ambient-sounds-saas/
+NewOpcodes: https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/
 
-# 3. Ped Spec
+## 3. Ped Spec
 https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/ \
 ⚠ Install in root SA folder.\
 Not compatible with Mod Loader\
 Use (no effect) from (settings)
 
-# 4. Modloader
+## 4. Modloader
 https://github.com/thelink2012/modloader/releases
 
-# 5. Essentials
+## 5. Essentials
 00. Silent Patch: https://gtaforums.com/topic/669045-silentpatch/
 01. Widescreen Fix: https://gtaforums.com/topic/547841-gtanfsmpother-widescreen-fixes-pack/
 02. Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
@@ -53,9 +52,9 @@ https://github.com/thelink2012/modloader/releases
 	62 realistic materials = 62
 	60 proper fixes = 60
 
-# 6. Main Mods
+## 6. Main Mods
 
-## Environment
+### Environment
 -----------
 20. Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
 21. SkyGrad: https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/
@@ -74,7 +73,7 @@ https://github.com/thelink2012/modloader/releases
 35. Enhanced Classic Graphics: https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/
 36. Bulletholes: https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/
 
-## Vehicles & Weapons
+### Vehicles & Weapons
 ------------------
 60. Proper Fixes(for HD Texture Packs): https://www.mixmods.com.br/2022/03/sa-proper-fixes/
 		Do not install (optional - remove LOD vegetation)
@@ -84,7 +83,7 @@ https://github.com/thelink2012/modloader/releases
 65. Weapons Pack Reborn: https://www.mixmods.com.br/2020/07/90s-awp-atmosphere-weapons-pack-reborn/
 66. Advanced Aiming Mod: https://www.mixmods.com.br/2022/06/advanced-aiming-mod/
 
-## Characters
+### Characters
 ----------
 70. Proper Player Retex: https://www.mixmods.com.br/2022/04/proper-player-retex/
 71. Mobile Hands: https://gtaforums.com/topic/752981-sa-mobile-hands/
@@ -92,7 +91,7 @@ https://github.com/thelink2012/modloader/releases
 73. Original Peds Vary: https://www.mixmods.com.br/2021/03/original-peds-vary-peds-originais-variando-pedfuncs/
 74. Ped Tweaks: https://gtaforums.com/topic/915461-ped-tweaks/
 
-## Gameplay / AI
+### Gameplay / AI
 -------------
 80. Real Traffic Fix: https://www.mixmods.com.br/2022/04/real-traffic-fix/
 81. Ambient Taxi: https://www.mixmods.com.br/2017/12/ambient-taxi-taxi-pegando-passageiros/
@@ -101,20 +100,14 @@ https://github.com/thelink2012/modloader/releases
 84. Ped Skills: https://www.mixmods.com.br/2020/10/pedskills/
 	Use option (fixes, not hard)
 
-UI
---
+### UI
+------
 90. Loadscreens: https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/
 91. Atmosphere Interface: https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
 92. Mobile Font Fixed: https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
 93. Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/
 
-# 8. Misc
+## 8. Misc
+First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/
 The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/
 Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
-
-# NOT INCLUDED (BUT COULD BE NICE):
-First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
-RoSA Project Evolved: https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/ \
-Improved and Fixed Original Vegetation: https://www.gtainside.com/en/sanandreas/mods/161558-improved-and-corrected-original-vegetation/ \
-Original HQ Palms: https://www.mixmods.com.br/2021/03/savc-original-hq-palms-palmeiras-remasterizadas/ \
-Formal 2K Grass: https://www.gtainside.com/en/sanandreas/mods/96686-formal-2k-grass-textures/
