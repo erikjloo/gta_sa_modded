@@ -118,6 +118,8 @@ https://github.com/thelink2012/modloader/releases
 91. Atmosphere Interface: https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
 92. Mobile Font Fixed: https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
 93. Faster Clothes Changes: https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/
+94. Void Radio Wheel: https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html
+95. Void Weapon Wheel: https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html
 
 ## 8. Misc
 First Person Mod: https://gtaforums.com/topic/710626-first-person-mod/ \
@@ -125,3 +127,8 @@ Ladders Mod: https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/ \
 Street Musicians: https://libertycity.net/files/gta-san-andreas/192301-ulichnye-muzykanty-v4-0.html \
 The Birds Update: https://gtaforums.com/topic/526999-relsaasi-the-birds-update/ \
 Combat FX Update: https://gtaforums.com/topic/919366-combat-fx-upgrade/
+Original Radio Extended: https://www.mixmods.com.br/2024/08/original-radio-extended/
+
+Download Magix TXD: https://www.gtainside.com/en/sanandreas/tools/88448-magic-txd-1-0/
+Go to Void Weapon Wheel and update slotrad.txd with Non-Stop Pop logo
+And RadioNames(EN).fxt with radio name for Non-Stop POp
